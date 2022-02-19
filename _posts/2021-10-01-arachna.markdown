@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Arachna"
+thumbnail: "assets/thumbnails/spiderweb.jpg"
+date: 2021-10-01 19:56:48 +0200
+tags: architecture technology
+excerpt_separator: <!--more-->
+
+y: 1
+x: 2
+---
+
+Arachna  is currently a work in progress with the goal of imitating real spiders in creating spiderwebs as architectural structures.
+![arachna](/assets/images/tarantula1.gif "tarantula animation")
+Here is a link to the Github repository: [GitHub](https://github.com/odbee/arachna)
+
+Built with libcinder for C++ and the Boost Graph Library the goal is to highly parallelize the simulation process to create high density structures.

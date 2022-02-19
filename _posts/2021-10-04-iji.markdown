@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "IJI"
+date: 2021-10-01 19:56:48 +0200
+categories: architecture technology
+excerpt_separator: <!--more-->
+
+x: 5
+y: 5
+---
+IJI tries to make the virtual more real by introducing the concept of sacrifing your privacy in an online game.
+![iji](/assets/images/iji.jpg "starting screen").
+In a place where you usually conceal yourself you are asked to reveal something that is dear to you. The only way to participate is by uploading your browser history for it to be processed. This synthetization sets the foundation for your proxy avatar in this virtual space. From it your avatars inherits its strengths, weaknesses and unique characteristics. You are thrown into this world having to deal with its perks and shortcomings. How you experience the world of iji depends solely on the extracted paramenters your browser history.
+
+IJI is a multiplayer game built in unity with th
