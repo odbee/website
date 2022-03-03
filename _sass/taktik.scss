@@ -3,14 +3,14 @@ $size:5px;
 $offset: -5px;
 
 html {
-    font-family: 'Spectral Light', sans-serif;
+    font-family: 'Spectral', serif;
     overflow: hidden; /* Show scrollbars */
-
+    font-weight: 300;
 }
 
 p img {
     display: block;
-    margin: 18px auto;
+
     max-width: 90%;
     max-height: 30%; 
 }
@@ -24,7 +24,7 @@ h1 {
     font-weight: 600;
 }
 th{
-    font-weight: normal;
+    font-weight: inherit;
     font-size: 20px;
     position: relative;
 }
@@ -34,8 +34,7 @@ th{
 // }
 
 .videowrapper {
-    display: block;
-    margin: 0 auto;
+
     top: 0;
     bottom: 0;
     left: 0;
@@ -45,7 +44,7 @@ th{
 
 .videowrapper iframe {
     display: block;
-    margin: 0 auto;
+
     width: 90%;
     height: 80%;
     padding: 5%;
@@ -66,7 +65,7 @@ th{
 .border-none td {
     width:50px;
     height: 50px;
-    border: 5px solid black;
+    border: 2px solid black;
     background-color: white;
 }
 
@@ -75,7 +74,7 @@ th{
     height: 50px;
     max-height: 50px;
     max-width: 100px;
-    border: 5px solid black;
+    border: 2px solid black;
     vertical-align: top;
     text-align: left;
     overflow: hidden;
